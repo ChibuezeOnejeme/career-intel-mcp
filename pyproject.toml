@@ -6,7 +6,7 @@ requires-python = ">=3.12"
 dependencies = [
     "fastmcp>=3.4.2",
     "sqlalchemy[asyncio]>=2.0",
-    "aiosqlite>=0.25",
+    "aiosqlite>=0.21",
     "pydantic>=2.13",
     "pydantic-settings>=2.14",
     "httpx>=0.28",
